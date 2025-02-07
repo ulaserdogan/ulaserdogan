@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ulaserdogan
-- 🌱 I’m currently learning Javascript, Data structures and Spring Boot
+- 🌱 I’m currently a junior Computer Science Student.
